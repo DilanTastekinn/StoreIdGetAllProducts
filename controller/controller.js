@@ -94,7 +94,7 @@ module.exports = async function fonksiyon(req, res, next) {
           XLSX.utils.book_append_sheet(
             b2cWorkbook,
             b2cWorksheet,
-            "B2B Collections"
+            "B2C Collections"
           );
           XLSX.writeFile(b2cWorkbook, "b2c-collections.xlsx");
        
