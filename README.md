@@ -1,4 +1,4 @@
-Proje veritabanında ipsizcambaz içerisindeki b2bproducts-b2cproducts-c2cproducts koleksiyonlarında yer alan mağazaya a karşılık gelen ürünlerin excell e aktarılmasını sağlamaktadır.
+Proje veritabanında belirlediğimiz b2bproducts-b2cproducts-c2cproducts koleksiyonlarında yer alan mağazaya a karşılık gelen ürünlerin excell e aktarılmasını sağlamaktadır.
 
 Projeyi çalıştırmak için
 
